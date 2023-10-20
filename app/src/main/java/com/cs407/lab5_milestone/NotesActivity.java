@@ -39,7 +39,7 @@ public class NotesActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
-
+//test
         // Handle item selection
         if (id == R.id.addNote) {
             // Handle the add note action here (e.g., open a dialog or another activity to add a note)
